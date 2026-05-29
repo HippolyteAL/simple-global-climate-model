@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="auxiliaries/screenshots/QSC_view.png">
-    <img src="auxiliaries/screenshots/QSC_view.png" width="33%">
+    <img src="auxiliaries/screenshots/QSC_view.png" width="32%">
   </a>
   <a href="auxiliaries/screenshots/Elevation_view.png">
-    <img src="auxiliaries/screenshots/Elevation_view.png" width="33%">
+    <img src="auxiliaries/screenshots/Elevation_view.png" width="32%">
   </a>
   <a href="auxiliaries/screenshots/Terrain_view_V_0_1_0.png">
-    <img src="auxiliaries/screenshots/Terrain_view_V_0_1_0.png" width="33%">
+    <img src="auxiliaries/screenshots/Terrain_view_V_0_1_0.png" width="32%">
   </a>
 </p>
 
